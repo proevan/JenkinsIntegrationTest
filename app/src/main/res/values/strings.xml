@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JenkinsIntegrationTest</string>
+    <string name="action_settings">Settings</string>
+</resources>
